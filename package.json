@@ -9,7 +9,7 @@
     "@material-ui/pickers": "^3.2.7",
     "date-fns": "^2.7.0",
     "enzyme": "^3.10.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
